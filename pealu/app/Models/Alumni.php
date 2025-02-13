@@ -6,6 +6,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Alumni extends Model
 {
-    //aa
+    //
     protected $guarded = [];
 }
